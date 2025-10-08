@@ -1,0 +1,1 @@
+Images of assembled case
