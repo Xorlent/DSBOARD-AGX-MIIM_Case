@@ -13,4 +13,4 @@
 8. Using the original screws, reassemble the fan to the Jetson module.  Do not overtighen. 
 9. Do not glue the lid; it is press-fit to allow for easy access to the PCB  
 ![Assembled Case Image 1](https://github.com/Xorlent/DSBOARD-AGX-MIIM_Case/blob/main/images/DSBOARD-AGX-MIIM%20Assembly1.png)
-![Assembled Case Image 2](https://github.com/Xorlent/DSBOARD-AGX-MIIM_Case/blob/main/images/DSBOARD-AGX-MIIM%20Assembly1.png)
+![Assembled Case Image 2](https://github.com/Xorlent/DSBOARD-AGX-MIIM_Case/blob/main/images/DSBOARD-AGX-MIIM%20Assembly2.png)
