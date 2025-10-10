@@ -3,7 +3,7 @@
 ### Instructions
 1. Print all using .25mm layer height, .2mm first layer
    - No supports
-   - Add a 3mm brim to the left print if your printer is prone to knocking over prints
+   - Add a 3mm brim to the left print object if your printer is prone to knocking into models
 2. Test fit the printed parts to ensure successful assembly
 3. Using the appropriate assembly glue based on the filament:
    - Glue the right and left prints together, then immediately glue the right and left assembly to the base
