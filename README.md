@@ -1,7 +1,7 @@
 # DSBOARD-AGX-MIIM_Case
 3D-printable desktop case for a ForeCR DSBOARD-AGX-MIIM v.1.1
 ### Instructions
-1. Print all using .25mm layer height, .2mm first layer
+1. Print all using .25mm layer height, .2mm first layer, 3 wall loops, 15% infill
    - No supports
    - Add a 3mm brim to the left print object if your printer is prone to knocking into models
 2. Test fit the printed parts to ensure successful assembly
